@@ -1,0 +1,3 @@
+[submodule "login_react"]
+	path = login_react
+	url = https://github.com/YuraZaqaryan/login_react

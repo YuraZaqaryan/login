@@ -1,0 +1,6 @@
+:root{
+ --Edo : #fff
+}
+.App{
+    color : var(--Edo)
+}
